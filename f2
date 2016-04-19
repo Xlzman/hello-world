@@ -1,2 +1,5 @@
-sahdsajdasdasdsads aczxc
-sadsadasxckihasdasdas
+  public static void main(String[] args){
+    String str="hello %s";
+    str.format(1,"world");
+    System.out.println(str)
+  }
